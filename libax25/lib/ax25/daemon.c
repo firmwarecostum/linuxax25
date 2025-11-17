@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <signal.h>
 #include <errno.h>
+#include <fcntl.h>
 
 #include <sys/param.h>
 #include <sys/file.h>
